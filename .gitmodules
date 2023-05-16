@@ -1,0 +1,3 @@
+[submodule "MuTILs_Panoptic"]
+	path = MuTILs_Panoptic
+	url = https://github.com/PathologyDataScience/MuTILs_Panoptic
