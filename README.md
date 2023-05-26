@@ -2,16 +2,22 @@
 
 ## Authors 
 
-Mohamed Amgad1, James M. Hodge2, Maha A.T. Elsebaie3, Clara Bodelon2, Samantha Puvanesarajah2, David A. Gutman4, Kalliopi P. Siziopikou1, Jeffery A. Goldstein1, Mia M. Gaudet5, Lauren R. Teras2*, Lee A.D. Cooper1*
+Mohamed Amgad<sup>1</sup>, James M. Hodge<sup>2</sup>, Maha A.T. Elsebaie<sup>3</sup>, Clara Bodelon<sup>2</sup>, Samantha Puvanesarajah<sup>2</sup>, David A. Gutman<sup>4</sup>, Kalliopi P. Siziopikou<sup>1</sup>, Jeffery A. Goldstein<sup>1</sup>, Mia M. Gaudet<sup>5</sup>, Lauren R. Teras<sup>2*</sup>, Lee A.D. Cooper<sup>1*</sup>
 
-1 Department of Pathology, Northwestern University Feinberg School of Medicine, Chicago, IL.
-2 Department of Population Science, American Cancer Society, Atlanta, GA.
-3 Department of Medicine, John H. Stroger, Jr. Hospital of Cook County, Chicago, IL.
-4 Departments of Neurology and Psychiatry, Emory University School of Medicine, Atlanta, GA.
-5 Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD.
+<sup>1</sup> Department of Pathology, Northwestern University Feinberg School of Medicine, Chicago, IL.
+<sup>2</sup> Department of Population Science, American Cancer Society, Atlanta, GA.
+<sup>3</sup> Department of Medicine, John H. Stroger, Jr. Hospital of Cook County, Chicago, IL.
+<sup>4</sup> Departments of Neurology and Psychiatry, Emory University School of Medicine, Atlanta, GA.
+<sup>5</sup> Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, MD.
 
-\* Co-senior authors.
+<sup>*</sup> Co-senior authors.
 
+## Paper
+Access [here](https://doi.org/10.21203/rs.3.rs-2947001/v1). Citation:
+```
+Mohamed Amgad, James Hodge, Maha Elsebaie et al. A  population-level computational histologic signature for invasive breast 
+cancer prognosis, 26 May 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2947001/v1]
+```
 
 ## Abstract
 Breast cancer is a heterogeneous disease with variable survival outcomes. Pathologists grade the microscopic appearance of breast tissue using the Nottingham criteria, which is qualitative and does not account for non-cancerous elements within the tumor microenvironment (TME). We present the Histomic Prognostic Signature (HiPS), a comprehensive, interpretable scoring of the survival risk incurred by breast TME morphology. HiPS uses deep learning to accurately map cellular and tissue structures in order to measure epithelial, stromal, immune, and spatial interaction features. It was developed using a population-level cohort from the Cancer Prevention Study (CPS)-II and validated using data from three independent cohorts, including the PLCO trial, CPS-3, and The Cancer Genome Atlas. HiPS consistently outperformed pathologists in predicting survival outcomes, independent of TNM stage and pertinent variables. This was largely driven by stromal and immune features. In conclusion, HiPS is a robustly validated biomarker to support pathologists and improve patient prognosis. 
