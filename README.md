@@ -13,10 +13,10 @@ Mohamed Amgad<sup>1</sup>, James M. Hodge<sup>2</sup>, Maha A.T. Elsebaie<sup>3<
 <sup>*</sup> Co-senior authors.
 
 ## Paper
-Access [here](https://doi.org/10.21203/rs.3.rs-2947001/v1). Citation:
+Access [here](https://www.nature.com/articles/s41591-023-02643-7). Citation:
 ```
-Mohamed Amgad, James Hodge, Maha Elsebaie et al. A  population-level computational histologic signature for invasive breast 
-cancer prognosis, 26 May 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2947001/v1]
+Amgad, M., Hodge, J.M., Elsebaie, M.A.T. et al. A population-level digital histologic biomarker for enhanced prognosis of invasive breast cancer.
+Nat Med 30, 85–97 (2024). https://doi.org/10.1038/s41591-023-02643-7
 ```
 
 ## Abstract
