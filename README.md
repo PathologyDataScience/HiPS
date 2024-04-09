@@ -16,7 +16,7 @@ Mohamed Amgad<sup>1</sup>, James M. Hodge<sup>2</sup>, Maha A.T. Elsebaie<sup>3<
 Access [here](https://www.nature.com/articles/s41591-023-02643-7). Citation:
 ```
 Amgad, M., Hodge, J.M., Elsebaie, M.A.T. et al. A population-level digital histologic biomarker for enhanced prognosis of invasive breast cancer.
-Nat Med 30, 85–97 (2024). https://doi.org/10.1038/s41591-023-02643-7
+Nature Medicine 30, 85–97 (2024). https://doi.org/10.1038/s41591-023-02643-7
 ```
 
 ## Abstract
